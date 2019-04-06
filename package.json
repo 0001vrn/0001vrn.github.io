@@ -29,12 +29,12 @@
         "bootstrap": "4.1.1",
         "devicons": "^1.8.0",
         "jquery": "3.3.1",
-        "node-sass": "^4.9.0",
+        "node-sass": "^4.11.0",
         "simple-line-icons": "^2.4.1"
     },
     "devDependencies": {
-        "browser-sync": "2.24.3",
-        "gulp": "^3.9.1",
+        "browser-sync": "^2.26.3",
+        "gulp": "^4.0.0",
         "gulp-clean-css": "3.9.4",
         "gulp-header": "2.0.5",
         "gulp-rename": "^1.2.2",
