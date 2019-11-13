@@ -26,7 +26,7 @@
         "url": "https://github.com/0001vrn/0001vrn.github.io.git"
     },
     "dependencies": {
-        "bootstrap": "4.1.1",
+        "bootstrap": "4.3.1",
         "devicons": "^1.8.0",
         "jquery": "3.3.1",
         "node-sass": "^4.11.0",
